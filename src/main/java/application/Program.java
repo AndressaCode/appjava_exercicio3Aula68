@@ -31,8 +31,8 @@ public class Program {
         student.grade2 = sc.nextDouble();
         System.out.print("Nota trimestre 3: ");
         student.grade3 = sc.nextDouble();
-        
         System.out.println();
+        
         System.out.println("Nota final: " + student.finalGrade());
         
         System.out.println();
